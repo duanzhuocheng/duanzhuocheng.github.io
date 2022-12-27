@@ -1,53 +1,72 @@
 ---
-title: "Publications"
+title: "Curriculum Vitae"
 type : list-single
-toc: true
 ---
+{{<block class="note">}}
+The following content came from the [Compact Academic CV](https://www.latextemplates.com/template/compact-academic-cv) by [Dario Taraborelli](https://github.com/dartar).
+{{<end>}}
 
-姓名：王大锤
+## Albert Einstein
 
-职业：演员
+Institute for Advanced Study\
+Einstein Drive/
+Princeton, N.J. 08540 USA
 
-英文名：David Wang
+Phone: 609-734-8000\
+Mobile: 609-924-8399
 
-代表作品：《万万没想到》
+Email: a.einstein@ias.edu\
+URL: http://www.ias.edu/spfeatures/einstein/
 
-电话：+86-800-900-1000
+Born: March 12, 1879—Ulm, Germany\
+Nationality: German/American
 
-个人网站：www.wangdachui.com
+### Current position
+Emeritus Professor, Institute for Advanced Study, Princeton 
 
-生日：2000年0月0日
+### Areas of specialisation
+Physics; Relativity Theory
 
-## 教育经历
+### Appointments held
 
-2010，北京大学，喜剧演艺（本科），GPA: 3.99/4.00
+1903-1908, Swiss Patent Office, Bern\
+1908-1911, University of Bern\
+1911-1912, University of Zürich\
+1912-1914, Charles University of Prague\
+1914-1932, Prussian Academy of Sciences, Berlin\
+1920-1930, University of Leiden\
+1932-1955, Institute for Advanced Study, Princeton
 
-2013，清华大学，剧本创作（硕士），GPA: 3.99/4.00
-  
-   - 毕业论文：《论中国的喜剧创作为什么如此单调》
-   - 答辩委员：李大锤、张大锤、司马大锤
+### Education
+1900, MSc in Physics, ETH Zürich 
+1900, PhD in Physics, ETH Zürich
 
-## 发表
-### 期刊
+### Grants, honours & awards
+1921, Nobel Prize in Physics, Nobel Foundation
 
-1. 王大锤 (2012),中国的喜剧和美国的喜剧有什么不同, *《瞎扯》115*(17), 001-010
-2. 王大锤、钱大锤 (2020), 情景喜剧在中国能吃得开吗, *《再瞎扯》116*(18), 9874-9880
+### Publications & talks
+#### Journal articles
+1. Einstein, Albert (1901), “Folgerungen aus den Capillaritätserscheinungen (Conclusions Drawn from the Phenomena of Capillarity)", *Annalen der Physik, 4*: 513
+2. Einstein, Albert (1905), “On a Heuristic Viewpoint Concerning the Production and Transforma- tion of Light", *Annalen der Physik, 17*: 132–148.
+1905b Einstein, Albert (1905), A new determination of molecular dimensions. *PhD dissertation*.
+3. Einstein, Albert (1905), “On the Motion—Required by the Molecular Kinetic Theory of Heat—of Small Particles Suspended in a Stationary Liquid", *Annalen der Physik, 17*: 549–560.\
+1905d Einstein, Albert (1905), “On the Electrodynamics of Moving Bodies", *Annalen der Physik* 17:891–921.
+4. Einstein, Albert (1905), “Does the Inertia of a Body Depend Upon Its Energy Content?", *Annalen der Physik, 18*: 639–641.
+5. Einstein, Albert (1915), “Die Feldgleichungen der Gravitation (The Field Equations of Gravitation)", *Koniglich Preussische Akademie der Wissenschaften*: 844–847
+6. Einstein, Albert (1917), “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie (Cos-mological Considerations in the General Theory of Relativity)", *Koniglich Preussische Akademie der Wissenschaften*
+7. Einstein, Albert (1917), “Zur Quantentheorie der Strahlung (On the Quantum Mechanics of Ra- diation)", *Physikalische Zeitschrift, 18*: 121–128
 
-### 专著
+#### Books
+Einstein, Albert (1954), *Ideas and Opinions*, New York: Random House, ISBN 0-517-00393-7
 
-王大锤 (2019), 《论一个喜剧演员的基本修养》，北京：瞎扯出版社, ISBN 0-987-654-3210
+#### Newspaper articles
+1. Einstein, Albert, et al. (December 4, 1948), “To the editors", *New York Times*
+2. Einstein, Albert (May 1949), “Why Socialism?", *Monthly Review*.
 
-## 参演作品
+### Teaching
 
 ...
 
-## 指导学生
+### Service to the profession
 
 ...
-
-
-
-
-
-
-
