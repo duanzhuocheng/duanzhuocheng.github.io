@@ -26,7 +26,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 
 [[menu.main]]
     name = "Publications"
-    url = "/Publications/"
+    url = "/publications/"
     weight = 4
 
 
