@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "Publications"
 type : list-single
 ---
 {{<block class="note">}}
